@@ -1,1 +1,2 @@
-# C-and-C-Basic
+# C-Basic
+Some basic works in C and C++
